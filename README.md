@@ -3,9 +3,10 @@
 ### About the project
 A study about the total stopping distance (perception-reaction distance + braking distance) of a car under multiple circumstances and variables such as:
 <ul>
-<li>Pavement Material (Dirt, Concrete, Asphalt)</li>
-<li>Pavement Condition (Dry, Wet, Ice, Snow)</li>
-<li>Driver Age</li>
+  <li>Pavement Material (Dirt, Concrete, Asphalt)</li>
+  <li>Pavement Condition (Dry, Wet, Ice, Snow)</li>
+  <li>Driver Age</li>
+  <li>Vehicle Speed</li> 
 </ul>
 
 In the first part of the project there is a break down of the problem into multiple sections, followed by a mathematical analysis of each one.<br>
