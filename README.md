@@ -10,10 +10,10 @@ A study about the total stopping distance (perception-reaction distance + brakin
 </ul>
 
 In the first part of the project there is a break down of the problem into multiple sections, followed by a mathematical analysis of each one.<br>
-The second part is a simulation of the problem, consisting of multiple MATLAB scripts that together constitute the [**main program**](Principal.m), which requests user input and calculates the total stopping distance, while also plotting multiples graphs that allow to draw conclusions.
+The second part is a simulation of the problem, containing multiple MATLAB scripts that together constitute the [**main program**](Principal.m), which requests user input and calculates the total stopping distance, while also plotting multiples graphs that allow to draw conclusions.
 
 ### Detailed description/usage
 Read the project report -> [**Relatorio_89078.pdf**](Relatorio_89078.pdf).
 
-### Pogramming/Scripting/Markup Languages 
+### Programming/Scripting/Markup Languages 
 `MATLAB`
