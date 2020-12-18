@@ -13,7 +13,7 @@ In the first part of the project there is a break down of the problem into multi
 The second part is a simulation of the problem, containing multiple MATLAB scripts that together constitute the [**main program**](Principal.m), which requests user input and calculates the total stopping distance, while also plotting multiples graphs that allow to draw conclusions.
 
 ### Detailed description/usage
-Read the project report -> [**Relatorio_89078.pdf**](Relatorio_89078.pdf).
+Read the project report -> [**Relatorio_89078.pdf**](Relatorio_89078.pdf)
 
 ### Programming/Scripting/Markup Languages 
 `MATLAB`
